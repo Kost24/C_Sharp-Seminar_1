@@ -2,4 +2,4 @@
 Console.WriteLine("Hello, World!");
 
 
-Задание 1.
+// Задание 1.
